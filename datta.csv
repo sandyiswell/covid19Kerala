@@ -1,0 +1,239 @@
+District,Cumulative number of passengers from china under observation as on today,cumulative number of asymptomatic passengers under home isolation as on today,cumulative number of symptomatic passengers hospitalized as on today,no of symptomatic passengers hospitalized today,Date,Discharged from home isolation
+Thiruvananthapuram,111,105,6,5,31/01/20,
+Kollam,128,122,6,4,31/01/20,
+Pathanamthitta,43,43,0,0,31/01/20,
+Idukki ,21,21,0,0,31/01/20,
+Kottayam,52,52,0,0,31/01/20,
+Alappuzha ,93,87,6,5,31/01/20,
+Ernakulam,204,195,9,5,31/01/20,
+Thrissur,124,110,14,11,31/01/20,
+Palakkad,93,92,1,1,31/01/20,
+Malappuram,210,205,5,3,31/01/20,
+Kozhikode,214,211,3,2,31/01/20,
+Wayanad,22,22,0,0,31/01/20,
+Kannur,96,96,0,0,31/01/20,
+Kasargod,60,60,0,0,31/01/20,
+Thiruvananthapuram,126,119,7,1,01/02/20,
+Kollam,156,147,9,3,01/02/20,
+Pathanamthitta,64,63,1,1,01/02/20,
+Idukki ,24,24,0,0,01/02/20,
+Kottayam,62,62,0,0,01/02/20,
+Alappuzha ,120,112,8,2,01/02/20,
+Ernakulam,238,229,9,1,01/02/20,
+Thrissur,154,134,20,6,01/02/20,
+Palakkad,99,96,3,2,01/02/20,
+Malappuram,265,259,6,1,01/02/20,
+Kozhikode,268,262,6,3,01/02/20,
+Wayanad,28,28,0,0,01/02/20,
+Kannur,121,120,1,1,01/02/20,
+Kasargod,68,68,0,0,01/02/20,
+Thiruvananthapuram,153,147,6,1,02/02/20,
+Kollam,166,160,6,0,02/02/20,
+Pathanamthitta,66,64,2,1,02/02/20,
+Idukki ,25,25,0,0,02/02/20,
+Kottayam,66,66,0,0,02/02/20,
+Alappuzha ,125,116,9,1,02/02/20,
+Ernakulam,260,251,9,1,02/02/20,
+Thrissur,174,152,22,2,02/02/20,
+Palakkad,113,109,4,1,02/02/20,
+Malappuram,315,307,8,3,02/02/20,
+Kozhikode,291,284,7,1,02/02/20,
+Wayanad,38,38,0,0,02/02/20,
+Kannur,127,126,1,0,02/02/20,
+Kasargod,80,79,1,1,02/02/20,
+Thiruvananthapuram,174,178,6,1,03/02/20,
+Kollam,201,194,7,0,03/02/20,
+Pathanamthitta,70,69,1,1,03/02/20,
+Idukki ,26,26,0,0,03/02/20,
+Kottayam,79,79,0,0,03/02/20,
+Alappuzha ,152,142,10,1,03/02/20,
+Ernakulam,297,285,12,1,03/02/20,
+Thrissur,189,165,24,2,03/02/20,
+Palakkad,123,119,4,1,03/02/20,
+Malappuram,343,330,13,3,03/02/20,
+Kozhikode,310,306,4,1,03/02/20,
+Wayanad,42,42,0,0,03/02/20,
+Kannur,147,145,2,0,03/02/20,
+Kasargod,86,85,1,1,03/02/20,
+Thiruvananthapuram,189,184,5,1,04/02/20,
+Kollam,213,210,3,2,04/02/20,
+Pathanamthitta,74,73,1,0,04/02/20,
+Idukki ,35,35,0,0,04/02/20,
+Kottayam,84,81,3,3,04/02/20,
+Alappuzha ,182,169,13,3,04/02/20,
+Ernakulam,315,303,12,0,04/02/20,
+Thrissur,230,202,28,4,04/02/20,
+Palakkad,130,127,3,0,04/02/20,
+Malappuram,357,337,20,7,04/02/20,
+Kozhikode,316,310,6,2,04/02/20,
+Wayanad,43,43,0,0,04/02/20,
+Kannur,162,159,3,1,04/02/20,
+Kasargod,91,88,3,2,04/02/20,
+Thiruvananthapuram,195,190,5,1,05/02/20,
+Kollam,224,221,3,1,05/02/20,
+Pathanamthitta,81,81,0,0,05/02/20,
+Idukki ,36,36,0,0,05/02/20,
+Kottayam,92,89,3,0,05/02/20,
+Alappuzha ,179,171,8,1,05/02/20,
+Ernakulam,333,330,3,2,05/02/20,
+Thrissur,241,211,30,2,05/02/20,
+Palakkad,142,138,4,1,05/02/20,
+Malappuram,383,357,26,6,05/02/20,
+Kozhikode,306,301,5,1,05/02/20,
+Wayanad,49,49,0,0,05/02/20,
+Kannur,173,171,2,0,05/02/20,
+Kasargod,94,90,4,1,05/02/20,
+Thiruvananthapuram,218,211,7,3,06/02/20,
+Kollam,243,239,4,1,06/02/20,
+Pathanamthitta,85,85,0,0,06/02/20,
+Idukki ,37,37,0,0,06/02/20,
+Kottayam,100,99,1,0,06/02/20,
+Alappuzha ,206,199,7,1,06/02/20,
+Ernakulam,345,342,3,1,06/02/20,
+Thrissur,268,246,22,2,06/02/20,
+Palakkad,155,151,4,1,06/02/20,
+Malappuram,396,372,24,3,06/02/20,
+Kozhikode,358,354,4,0,06/02/20,
+Wayanad,54,54,0,0,06/02/20,
+Kannur,264,261,3,1,06/02/20,
+Kasargod,97,93,4,0,06/02/20,
+Thiruvananthapuram,251,246,3,0,07/02/20,
+Kollam,266,263,3,0,07/02/20,
+Pathanamthitta,85,85,0,0,07/02/20,
+Idukki ,37,37,0,0,07/02/20,
+Kottayam,103,103,0,0,07/02/20,
+Alappuzha ,233,229,4,1,07/02/20,
+Ernakulam,365,361,4,1,07/02/20,
+Thrissur,292,282,10,2,07/02/20,
+Palakkad,158,154,4,0,07/02/20,
+Malappuram,412,390,22,2,07/02/20,
+Kozhikode,370,368,2,1,07/02/20,
+Wayanad,59,59,0,0,07/02/20,
+Kannur,285,281,4,1,07/02/20,
+Kasargod,98,95,3,1,07/02/20,
+Thiruvananthapuram,270,261,9,5,08/02/20,
+Kollam,287,283,4,1,08/02/20,
+Pathanamthitta,90,90,0,0,08/02/20,
+Idukki ,42,42,0,0,08/02/20,
+Kottayam,105,105,0,0,08/02/20,
+Alappuzha ,248,246,2,0,08/02/20,
+Ernakulam,377,377,0,0,08/02/20,
+Thrissur,299,292,7,0,08/02/20,
+Palakkad,161,159,2,0,08/02/20,
+Malappuram,418,403,15,2,08/02/20,
+Kozhikode,378,377,1,0,08/02/20,
+Wayanad,70,70,0,0,08/02/20,
+Kannur,301,298,3,1,08/02/20,
+Kasargod,98,96,2,0,08/02/20,
+Thiruvananthapuram,327,320,7,1,09/02/20,
+Kollam,300,300,0,0,09/02/20,
+Pathanamthitta,92,92,0,0,09/02/20,
+Idukki ,42,42,0,0,09/02/20,
+Kottayam,113,113,0,0,09/02/20,
+Alappuzha ,253,251,2,0,09/02/20,
+Ernakulam,380,379,1,1,09/02/20,
+Thrissur,301,294,7,2,09/02/20,
+Palakkad,162,160,2,0,09/02/20,
+Malappuram,418,410,8,0,09/02/20,
+Kozhikode,389,386,3,2,09/02/20,
+Wayanad,70,70,0,0,09/02/20,
+Kannur,307,305,2,0,09/02/20,
+Kasargod,98,96,2,0,09/02/20,
+Thiruvananthapuram,366,362,4,1,10/02/20,
+Kollam,318,317,1,1,10/02/20,
+Pathanamthitta,92,92,0,0,10/02/20,
+Idukki ,42,42,0,0,10/02/20,
+Kottayam,113,113,0,0,10/02/20,
+Alappuzha ,259,257,2,0,10/02/20,
+Ernakulam,408,407,1,0,10/02/20,
+Thrissur,304,298,6,2,10/02/20,
+Palakkad,162,161,1,1,10/02/20,
+Malappuram,421,412,9,1,10/02/20,
+Kozhikode,396,393,3,1,10/02/20,
+Wayanad,71,71,0,0,10/02/20,
+Kannur,317,314,3,2,10/02/20,
+Kasargod,98,97,1,0,10/02/20,
+Thiruvananthapuram,403,399,4,1,11/02/20,
+Kollam,326,324,2,1,11/02/20,
+Pathanamthitta,93,93,0,0,11/02/20,
+Idukki ,44,44,0,0,11/02/20,
+Kottayam,113,113,0,0,11/02/20,
+Alappuzha ,259,257,2,0,11/02/20,
+Ernakulam,415,415,0,0,11/02/20,
+Thrissur,312,304,8,2,11/02/20,
+Palakkad,163,162,1,0,11/02/20,
+Malappuram,423,419,4,0,11/02/20,
+Kozhikode,398,396,2,1,11/02/20,
+Wayanad,71,71,0,0,11/02/20,
+Kannur,321,318,3,0,11/02/20,
+Kasargod,106,105,1,0,11/02/20,
+Thiruvananthapuram,339,336,3,,12/02/20,79
+Kollam,192,190,2,,12/02/20,135
+Pathanamthitta,65,65,0,,12/02/20,33
+Idukki ,33,33,0,,12/02/20,16
+Kottayam,88,88,0,,12/02/20,27
+Alappuzha ,177,176,1,,12/02/20,82
+Ernakulam,333,333,0,,12/02/20,91
+Thrissur,235,229,6,,12/02/20,77
+Palakkad,119,118,1,,12/02/20,47
+Malappuram,281,277,4,,12/02/20,143
+Kozhikode,266,262,4,,12/02/20,134
+Wayanad,50,50,0,,12/02/20,23
+Kannur,193,191,2,,12/02/20,129
+Kasargod,84,83,1,,12/02/20,24
+Thiruvananthapuram,344,339,5,,13/02/20,8
+Kollam,180,178,2,,13/02/20,15
+Pathanamthitta,56,56,0,,13/02/20,9
+Idukki ,25,25,0,,13/02/20,8
+Kottayam,87,87,0,,13/02/20,2
+Alappuzha ,169,169,0,,13/02/20,9
+Ernakulam,337,337,0,,13/02/20,5
+Thrissur,210,206,4,,13/02/20,25
+Palakkad,117,116,1,,13/02/20,2
+Malappuram,290,287,,,13/02/20,9
+Kozhikode,249,245,4,,13/02/20,20
+Wayanad,50,50,0,,13/02/20,0
+Kannur,202,200,2,,13/02/20,5
+Kasargod,81,80,1,,13/02/20,5
+Thiruvananthapuram,297,293,4,,14/02/20,51
+Kollam,174,172,2,,14/02/20,8
+Pathanamthitta,55,55,0,,14/02/20,1
+Idukki ,26,26,0,,14/02/20,0
+Kottayam,87,87,0,,14/02/20,0
+Alappuzha ,170,170,0,,14/02/20,0
+Ernakulam,329,328,1,,14/02/20,10
+Thrissur,199,196,3,,14/02/20,12
+Palakkad,116,116,0,,14/02/20,1
+Malappuram,269,268,1,,14/02/20,22
+Kozhikode,239,236,3,,14/02/20,11
+Wayanad,50,50,0,,14/02/20,2
+Kannur,195,194,1,,14/02/20,11
+Kasargod,82,81,1,,14/02/20,0
+Thiruvananthapuram,293,288,5,,15/02/20,8
+Kollam,167,166,1,,15/02/20,9
+Pathanamthitta,49,49,0,,15/02/20,0
+Idukki ,27,27,0,,15/02/20,0
+Kottayam,78,78,0,,15/02/20,9
+Alappuzha ,170,170,0,,15/02/20,0
+Ernakulam,325,323,2,,15/02/20,6
+Thrissur,185,182,3,,15/02/20,16
+Palakkad,115,115,0,,15/02/20,4
+Malappuram,253,252,1,,15/02/20,17
+Kozhikode,223,221,2,,15/02/20,18
+Wayanad,52,52,0,,15/02/20,3
+Kannur,196,195,1,,15/02/20,10
+Kasargod,77,76,1,,15/02/20,5
+Thiruvananthapuram,388,384,4,,16/02/20,4
+Kollam,164,164,0,,16/02/20,5
+Pathanamthitta,43,43,0,,16/02/20,6
+Idukki ,27,27,0,,16/02/20,0
+Kottayam,78,78,0,,16/02/20,0
+Alappuzha ,172,172,0,,16/02/20,0
+Ernakulam,328,326,2,,16/02/20,0
+Thrissur,183,179,4,,16/02/20,3
+Palakkad,111,111,0,,16/02/20,4
+Malappuram,242,241,1,,16/02/20,12
+Kozhikode,222,220,2,,16/02/20,1
+Wayanad,51,51,0,,16/02/20,1
+Kannur,196,195,1,,16/02/20,0
+Kasargod,71,71,0,,16/02/20,6

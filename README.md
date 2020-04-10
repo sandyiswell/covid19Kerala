@@ -54,13 +54,6 @@ Launch with:
 
 You need some configuration before starting Jupyter notebook remotely. See [Running a notebook server](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html).
 
-## Development Installation
-
-See [`CONTRIBUTING.rst`](CONTRIBUTING.rst) for how to set up a local development installation.
-
-## Contributing
-
-If you are interested in contributing to the project, see [`CONTRIBUTING.rst`](CONTRIBUTING.rst).
 
 ## Resources
 - [Project Jupyter website](https://jupyter.org)

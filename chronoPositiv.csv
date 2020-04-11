@@ -167,3 +167,6 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 10/04/20,Kasargod,native,3,positive,under_treatment,
 10/04/20,Kannur,native,2,positive,under_treatment,
 10/04/20,Malappuram,native,2,positive,under_treatment,
+11/04/20,Kannur,native,7,positive,under_treatment,
+11/04/20,Kozhikode,native,1,positive,under_treatment,
+11/04/20,Kasargod,native,2,positive,under_treatment,

@@ -9,6 +9,12 @@ B) datta2.csv -> Data from 17/02/2020 to until.
 C) chronoPositiv --> Confirmed,cured and expired list of patients per district in chronological manner.
 
 
+The pdf_tabledata_into_csv.py file : In the given website (see below) the daily data is updated in pdf file. This program is use to read table data from a pdf file.The create_folder function will create a folder name called'csv' in the current working directory. 
+
+This program is use to read table data from a pdf file.The create_folder function will create a folder name called'csv'
+in the current working directory.
+
+
 # Jupyter Notebook
 
 [![Google Group](https://img.shields.io/badge/-Google%20Group-lightgrey.svg)](https://groups.google.com/forum/#!forum/jupyter)

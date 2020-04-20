@@ -11,6 +11,8 @@ C) chronoPositiv --> Confirmed,cured and expired list of patients per district i
 
 The pdf_tabledata_into_csv.py file : In the given website (see below) the daily data is updated in pdf file. This program is use to read table data from a pdf file.The create_folder function will create a folder name called'csv' in the current working directory. 
 
+recoveryPeriod.ipynb: This file generates average recovery period of all discharged (ie, cured) Covid-19 positive cases.
+
 This program is use to read table data from a pdf file.The create_folder function will create a folder name called'csv'
 in the current working directory.
 

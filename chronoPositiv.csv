@@ -1,17 +1,17 @@
 Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
-09/03/20,Thrissur,native,1,negative,discharged,
-09/03/20,Alappuzha ,native,1,negative,discharged,
-09/03/20,Kasargod,native,1,negative,discharged,
+09/03/20,Thrissur,native,1,negative,discharged,17/03/20
+09/03/20,Alappuzha ,native,1,negative,discharged,17/03/20
+09/03/20,Kasargod,native,1,negative,discharged,17/04/20
 09/03/20,Pathanamthitta,native,5,negative,discharged,01/04/20
-09/03/20,Ernakulam,native,1,negative,discharged,
+09/03/20,Ernakulam,native,1,negative,discharged,27/03/20
 10/03/20,Kottayam,native,2,negative,discharged,12/04/20
 10/03/20,Pathanamthitta,native,3,negative,discharged,12/04/20
 10/03/20,Pathanamthitta,native,1,positive,under_treatment,
 10/03/20,Ernakulam,native,2,negative,discharged,12/04/20
-12/03/20,Kannur,native,1,negative,discharged,
-12/03/20,Thrissur,native,1,negative,discharged,
-13/03/20,Thiruvananthapuram,foreigner,1,negative,discharged,
-13/03/20,Thiruvananthapuram,native,1,negative,discharged,
+12/03/20,Kannur,native,1,negative,discharged,24/03/20
+12/03/20,Thrissur,native,1,negative,discharged,25/03/20
+13/03/20,Thiruvananthapuram,foreigner,1,negative,discharged,28/03/20
+13/03/20,Thiruvananthapuram,native,1,negative,discharged,25/03/20
 13/03/20,Thiruvananthapuram,native,1,negative,discharged,02/04/20
 15/03/20,Thiruvananthapuram,native,1,negative,discharged,02/04/20
 15/03/20,Idukki ,foreigner,1,negative,discharged,02/04/20
@@ -23,12 +23,12 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 20/03/20,Ernakulam,native,1,negative,discharged,09/04/20
 20/03/20,Ernakulam,native,1,negative,discharged,07/04/20
 20/03/20,Ernakulam,foreigner,1,negative,discharged,07/04/20
-20/03/20,Ernakulam,foreigner,2,negative,discharged,
+20/03/20,Ernakulam,foreigner,2,negative,discharged,28/03/20
 20/03/20,Kasargod,native,1,negative,discharged,16/04/20
 20/03/20,Kasargod,native,2,negative,discharged,12/04/20
 20/03/20,Kasargod,native,3,negative,discharged,10/04/20
 21/03/20,Ernakulam,native,1,positive,under_treatment,
-21/03/20,Ernakulam,native,2,negative,discharged,
+21/03/20,Ernakulam,native,2,negative,discharged,09/04/20
 21/03/20,Kannur,native,1,negative,discharged,05/04/20
 21/03/20,Kasargod,native,2,negative,discharged,16/04/20
 21/03/20,Kasargod,native,3,negative,discharged,12/04/20
@@ -41,7 +41,7 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 22/03/20,Kannur,native,2,negative,discharged,07/04/20
 22/03/20,Kannur,native,1,negative,discharged,06/04/20
 22/03/20,Kannur,native,1,negative,discharged,05/04/20
-22/03/20,Kasargod,native,1,positive,under_treatment,
+22/03/20,Kasargod,native,1,negative,discharged,20/04/20
 22/03/20,Kasargod,native,1,negative,discharged,14/04/20
 22/03/20,Kasargod,native,2,negative,discharged,12/04/20
 22/03/20,Kasargod,native,1,negative,discharged,11/04/20
@@ -53,7 +53,7 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 23/03/20,Kannur,native,2,negative,discharged,03/04/20
 23/03/20,Kannur,native,1,negative,discharged,10/04/20
 23/03/20,Kannur,native,2,negative,discharged,07/04/20
-23/03/20,Kasargod,native,2,positive,under_treatment,
+23/03/20,Kasargod,native,2,negative,discharged,20/04/20
 23/03/20,Kasargod,native,2,negative,discharged,16/04/20
 23/03/20,Kasargod,native,1,negative,discharged,13/04/20
 23/03/20,Kasargod,native,8,negative,discharged,12/04/20
@@ -82,7 +82,7 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 26/03/20,Kannur,native,2,negative,discharged,19/04/20
 26/03/20,Kannur,native,1,negative,discharged,16/04/20
 26/03/20,Kannur,native,1,negative,discharged,08/04/20
-26/03/20,Kasargod,native,1,positive,under_treatment,
+26/03/20,Kasargod,native,1,negative,discharged,20/04/20
 26/03/20,Kasargod,native,1,negative,discharged,10/04/20
 26/03/20,Malappuram,native,1,positive,under_treatment,
 26/03/20,Malappuram,native,1,negative,discharged,19/04/20
@@ -93,7 +93,8 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 26/03/20,Kasargod,native,1,negative,discharged,03/04/20
 26/03/20,Kannur,native,3,negative,discharged,03/04/20
 26/03/20,Wayanad,native,1,negative,discharged,08/04/20
-27/03/20,Kasargod,native,8,positive,under_treatment,
+27/03/20,Kasargod,native,4,positive,under_treatment,
+27/03/20,Kasargod,native,4,negative,discharged,20/04/20
 27/03/20,Kasargod,native,3,negative,discharged,19/04/20
 27/03/20,Kasargod,native,5,negative,discharged,16/04/20
 27/03/20,Kasargod,native,3,negative,discharged,15/04/20
@@ -111,12 +112,12 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 28/03/20,Thiruvananthapuram,native,1,negative,discharged,11/04/20
 28/03/20,Thiruvananthapuram,native,1,negative,discharged,05/04/20
 28/03/20,Palakkad,native,1,negative,discharged,11/04/20
-28/03/20,Kasargod,native,1,positive,under_treatment,11/04/20
+28/03/20,Kasargod,native,1,negative,discharged,20/04/20
 28/03/20,Malappuram,native,1,negative,discharged,09/04/20
 28/03/20,Kollam,native,1,negative,discharged,08/04/20
 29/03/20,Kannur,native,2,positive,under_treatment,
 29/03/20,Kannur,native,6,negative,discharged,05/04/20
-29/03/20,Kasargod,native,1,positive,under_treatment,
+29/03/20,Kasargod,native,1,negative,discharged,20/04/20
 29/03/20,Kasargod,native,2,negative,discharged,13/04/20
 29/03/20,Kasargod,native,1,negative,discharged,12/04/20
 29/03/20,Kasargod,native,3,negative,discharged,11/04/20
@@ -148,7 +149,8 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 31/03/20,Kollam,native,1,positive,under_treatment,
 31/03/20,Thrissur,native,1,negative,discharged,08/04/20
 31/03/20,Kannur,native,1,positive,under_treatment,
-01/04/20,Kasargod,native,4,positive,under_treatment,
+01/04/20,Kasargod,native,2,positive,under_treatment,
+01/04/20,Kasargod,native,2,negative,discharged,20/04/20
 01/04/20,Kasargod,native,1,negative,discharged,19/04/20
 01/04/20,Kasargod,native,2,negative,discharged,17/04/20
 01/04/20,Kasargod,native,4,negative,discharged,16/04/20
@@ -165,7 +167,7 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 01/04/20,Kannur,native,1,positive,under_treatment,
 01/04/20,Kannur,native,1,negative,discharged,11/04/20
 01/04/20,Palakkad,native,1,negative,discharged,11/04/20
-02/04/20,Kasargod,native,3,positive,under_treatment,
+02/04/20,Kasargod,native,3,negative,discharged,20/04/20
 02/04/20,Kasargod,native,2,negative,discharged,16/04/20
 02/04/20,Kasargod,native,2,negative,discharged,14/04/20
 02/04/20,Kasargod,native,1,negative,discharged,13/04/20
@@ -180,7 +182,8 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 02/04/20,Malappuram,native,1,negative,discharged,15/04/20
 02/04/20,Kozhikode,native,1,negative,discharged,11/04/20
 02/04/20,Kannur,native,1,negative,discharged,11/04/20
-03/04/20,Kasargod,native,3,positive,under_treatment,
+03/04/20,Kasargod,native,2,positive,under_treatment,
+03/04/20,Kasargod,native,1,negative,discharged,20/04/20
 03/04/20,Kasargod,native,3,negative,discharged,16/04/20
 03/04/20,Kasargod,native,1,negative,discharged,15/04/20
 03/04/20,Kannur,native,1,negative,discharged,12/04/20
@@ -189,7 +192,7 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 04/04/20,Kasargod,native,1,negative,discharged,19/04/20
 04/04/20,Kasargod,native,4,negative,discharged,13/04/20
 04/04/20,Kollam,native,1,positive,under_treatment,
-04/04/20,Alappuzha ,native,1,positive,under_treatment,
+04/04/20,Alappuzha ,native,1,negative,discharged,20/04/20
 04/04/20,Ernakulam,native,1,positive,under_treatment,
 04/04/20,Palakkad,native,1,negative,discharged,14/04/20
 04/04/20,Kannur,native,1,negative,discharged,12/04/20
@@ -198,7 +201,8 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 05/04/20,Pathanamthitta,native,1,negative,discharged,13/04/20
 05/04/20,Kannur,native,1,positive,under_treatment,
 05/04/20,Kasargod,native,1,positive,under_treatment,
-06/04/20,Kasargod,native,4,positive,under_treatment,
+06/04/20,Kasargod,native,2,positive,under_treatment,
+06/04/20,Kasargod,native,2,negative,discharged,20/04/20
 06/04/20,Kasargod,native,1,negative,discharged,19/04/20
 06/04/20,Kasargod,native,1,negative,discharged,18/04/20
 06/04/20,Kasargod,native,3,negative,discharged,16/04/20
@@ -206,7 +210,7 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 06/04/20,Malappuram,native,1,negative,discharged,17/04/20
 06/04/20,Kollam,native,1,negative,discharged,14/04/20
 06/04/20,Pathanamthitta,native,1,negative,discharged,13/04/20
-07/04/20,Kasargod,native,1,positive,under_treatment,
+07/04/20,Kasargod,native,1,negative,discharged,20/04/20
 07/04/20,Kasargod,native,1,negative,discharged,18/04/20
 07/04/20,Kasargod,native,2,negative,discharged,16/04/20
 07/04/20,Kannur,native,2,positive,under_treatment,
@@ -214,7 +218,7 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 07/04/20,Malappuram,native,1,positive,under_treatment,
 07/04/20,Kollam,native,1,positive,under_treatment,
 08/04/20,Kannur,native,4,positive,under_treatment,
-08/04/20,Alappuzha ,native,1,positive,under_treatment,
+08/04/20,Alappuzha ,native,1,negative,discharged,20/04/20
 08/04/20,Alappuzha ,native,1,negative,discharged,17/04/20
 08/04/20,Pathanamthitta,native,1,positive,under_treatment,
 08/04/20,Kasargod,native,1,negative,discharged,19/04/20
@@ -248,3 +252,4 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 18/04/20,Kozhikode,native,1,positive,under_treatment,
 19/04/20,Kannur,native,1,positive,under_treatment,
 19/04/20,Kasargod,native,1,positive,under_treatment,
+20/04/20,Kannur,native,6,positive,under_treatment,

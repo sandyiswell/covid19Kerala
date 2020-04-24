@@ -274,3 +274,4 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 23/04/20,Kozhikode,native,2,positive,under_treatment,
 23/04/20,Thiruvananthapuram,native,1,positive,under_treatment,
 23/04/20,Kollam,native,1,positive,under_treatment,
+24/04/20,Kasargod,native,3,positive,under_treatment,

@@ -299,7 +299,7 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 23/04/20,Thiruvananthapuram,native,1,negative,discharged,29/04/20
 23/04/20,Kollam,native,1,negative,discharged,30/04/20
 24/04/20,Kasargod,native,1,positive,under_treatment,
-24/04/20,Kasargod,native,1,positive,discharged,03/05/20
+24/04/20,Kasargod,native,1,negative,discharged,03/05/20
 24/04/20,Kasargod,native,1,negative,discharged,03/05/20
 25/04/20,Kottayam,native,3,positive,under_treatment,
 25/04/20,Kollam,native,2,positive,under_treatment,

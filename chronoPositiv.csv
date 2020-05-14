@@ -154,7 +154,7 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 31/03/20,Thiruvananthapuram,native,1,negative,discharged,11/04/20
 31/03/20,Kasargod,native,1,negative,discharged,17/04/20
 31/03/20,Kasargod,native,1,negative,discharged,12/04/20
-31/03/20,Kollam,native,1,positive,under_treatment,
+31/03/20,Kollam,native,1,negative,discharged,04/05/20
 31/03/20,Thrissur,native,1,negative,discharged,08/04/20
 31/03/20,Kannur,native,1,negative,discharged,10/05/20
 01/04/20,Kasargod,native,2,negative,discharged,21/04/20
@@ -182,7 +182,7 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 02/04/20,Idukki ,native,1,negative,discharged,12/04/20
 02/04/20,Idukki ,native,2,negative,discharged,11/04/20
 02/04/20,Idukki ,native,2,negative,discharged,11/04/20
-02/04/20,Kollam,native,1,positive,under_treatment,
+02/04/20,Kollam,native,1,negative,discharged,14/05/20
 02/04/20,Kollam,native,1,negative,discharged,15/04/20
 02/04/20,Thiruvananthapuram,native,1,negative,discharged,11/04/20
 02/04/20,Pathanamthitta,native,1,negative,discharged,14/04/20
@@ -224,7 +224,7 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 07/04/20,Kasargod,native,1,negative,discharged,20/04/20
 07/04/20,Kasargod,native,1,negative,discharged,18/04/20
 07/04/20,Kasargod,native,2,negative,discharged,16/04/20
-07/04/20,Kannur,native,1,positive,under_treatment,
+07/04/20,Kannur,native,1,negative,discharged,14/05/20
 07/04/20,Kannur,native,1,negative,discharged,07/05/20
 07/04/20,Kannur,native,1,negative,discharged,14/04/20
 07/04/20,Malappuram,native,1,negative,discharged,25/04/20
@@ -358,3 +358,11 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 13/05/20,Kottayam,native,1,positive,under_treatment,
 13/05/20,Kannur,native,1,positive,under_treatment,
 13/05/20,Kozhikode,native,1,positive,under_treatment,
+14/05/20,Kasargod,native,10,positive,under_treatment,
+14/05/20,Malappuram,native,5,positive,under_treatment,
+14/05/20,Palakkad,native,3,positive,under_treatment,
+14/05/20,Wayanad,native,3,positive,under_treatment,
+14/05/20,Kannur,native,2,positive,under_treatment,
+14/05/20,Pathanamthitta,native,1,positive,under_treatment,
+14/05/20,Idukki ,native,1,positive,under_treatment,
+14/05/20,Kozhikode,native,1,positive,under_treatment,

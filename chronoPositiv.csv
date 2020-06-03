@@ -393,7 +393,8 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 15/05/20,Malappuram,native,1,negative,discharged,25/05/20
 15/05/20,Alappuzha ,native,1,positive,under_treatment,
 15/05/20,Alappuzha ,native,1,negative,discharged,27/05/20
-15/05/20,Kozhikode,native,2,positive,under_treatment,
+15/05/20,Kozhikode,native,1,positive,under_treatment,
+15/05/20,Kozhikode,native,1,negative,discharged,03/06/20
 15/05/20,Kollam,native,1,negative,discharged,25/05/20
 15/05/20,Palakkad,native,1,positive,under_treatment,
 15/05/20,Kasargod,native,1,positive,under_treatment,
@@ -414,11 +415,13 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 17/05/20,Ernakulam,native,1,positive,under_treatment,
 17/05/20,Thrissur,native,1,positive,under_treatment,
 17/05/20,Kasargod,native,1,positive,under_treatment,
-18/05/20,Kollam,native,4,positive,under_treatment,
+18/05/20,Kollam,native,3,positive,under_treatment,
+18/05/20,Kollam,native,1,negative,discharged,03/06/20
 18/05/20,Kollam,native,2,negative,discharged,27/05/20
 18/05/20,Thrissur,native,1,positive,under_treatment,
 18/05/20,Thrissur,native,3,negative,discharged,30/05/20
-18/05/20,Thiruvananthapuram,native,3,positive,under_treatment,
+18/05/20,Thiruvananthapuram,native,2,positive,under_treatment,
+18/05/20,Thiruvananthapuram,native,1,negative,discharged,03/06/20
 18/05/20,Kannur,native,2,positive,under_treatment,
 18/05/20,Kannur,native,1,negative,discharged,01/06/20
 18/05/20,Pathanamthitta,native,1,negative,discharged,31/05/20
@@ -446,11 +449,12 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 20/05/20,Kannur,native,2,positive,under_treatment,
 20/05/20,Kannur,native,1,positive,expired,29/05/20
 20/05/20,Thiruvananthapuram,native,2,positive,under_treatment,
-20/05/20,Pathanamthitta,native,2,positive,under_treatment,
+20/05/20,Pathanamthitta,native,1,positive,under_treatment,
+20/05/20,Pathanamthitta,native,1,negative,discharged,03/06/20
 20/05/20,Thrissur,native,2,positive,under_treatment,
 20/05/20,Alappuzha ,native,1,positive,under_treatment,
 20/05/20,Ernakulam,native,1,positive,under_treatment,
-20/05/20,Kozhikode,native,1,positive,under_treatment,
+20/05/20,Kozhikode,native,1,negative,discharged,03/06/20
 20/05/20,Kasargod,native,1,negative,discharged,31/05/20
 21/05/20,Malappuram,native,2,positive,under_treatment,
 21/05/20,Malappuram,native,2,negative,to_be_discharged,01/06/20
@@ -459,9 +463,11 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 21/05/20,Kottayam,native,1,positive,under_treatment,
 21/05/20,Kottayam,native,1,negative,to_be_discharged,01/06/20
 21/05/20,Kottayam,native,1,negative,to_be_discharged,30/05/20
-21/05/20,Thrissur,native,3,positive,under_treatment,
+21/05/20,Thrissur,native,2,positive,under_treatment,
+21/05/20,Thrissur,native,1,negative,to_be_discharged,03/06/20
 21/05/20,Thiruvananthapuram,native,2,positive,under_treatment,
-21/05/20,Kollam,native,2,positive,under_treatment,
+21/05/20,Kollam,native,1,positive,under_treatment,
+21/05/20,Kollam,native,1,negative,to_be_discharged,03/06/20
 21/05/20,Alappuzha ,native,2,positive,under_treatment,
 21/05/20,Idukki ,native,1,positive,under_treatment,
 21/05/20,Palakkad,native,1,positive,under_treatment,
@@ -490,14 +496,17 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 23/05/20,Malappuram,native,5,positive,under_treatment,
 23/05/20,Malappuram,native,1,negative,discharged,31/05/20
 23/05/20,Malappuram,native,2,negative,discharged,30/05/20
-23/05/20,Alappuzha ,native,5,positive,under_treatment,
-23/05/20,Kozhikode,native,4,positive,under_treatment,
+23/05/20,Alappuzha ,native,4,positive,under_treatment,
+23/05/20,Alappuzha ,native,1,negative,discharged,03/06/20
+23/05/20,Kozhikode,native,3,positive,under_treatment,
+23/05/20,Kozhikode,native,1,negative,discharged,03/06/20
 23/05/20,Kasargod,native,3,positive,under_treatment,
 23/05/20,Kasargod,native,1,negative,discharged,30/05/20
 23/05/20,Kollam,native,3,positive,under_treatment,
 23/05/20,Kottayam,native,2,negative,discharged,01/06/20
 23/05/20,Wayanad,native,1,positive,under_treatment,
-24/05/20,Thiruvananthapuram,native,9,positive,under_treatment,
+24/05/20,Thiruvananthapuram,native,8,positive,under_treatment,
+24/05/20,Thiruvananthapuram,native,1,negative,to_be_discharged,03/06/20
 24/05/20,Thiruvananthapuram,native,3,negative,to_be_discharged,01/06/20
 24/05/20,Kannur,native,9,positive,under_treatment,
 24/05/20,Kannur,native,3,negative,to_be_discharged,31/05/20
@@ -516,11 +525,13 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 24/05/20,Thiruvananthapuram,Tamilnadu,1,positive,under_treatment,
 25/05/20,Kasargod,native,12,positive,under_treatment,
 25/05/20,Kasargod,native,2,negative,to_be_discharged,02/06/20
-25/05/20,Kannur,native,10,positive,under_treatment,
+25/05/20,Kannur,native,8,positive,under_treatment,
+25/05/20,Kannur,native,2,negative,to_be_discharged,03/06/20
 25/05/20,Thiruvananthapuram,native,3,positive,under_treatment,
 25/05/20,Thiruvananthapuram,native,2,negative,to_be_discharged,01/06/20
 25/05/20,Palakkad,native,5,positive,under_treatment,
-25/05/20,Kozhikode,native,4,positive,under_treatment,
+25/05/20,Kozhikode,native,3,positive,under_treatment,
+25/05/20,Kozhikode,native,1,negative,to_be_discharged,03/06/20
 25/05/20,Pathanamthitta,native,3,positive,under_treatment,
 25/05/20,Alappuzha ,native,3,positive,under_treatment,
 25/05/20,Kollam,native,2,positive,under_treatment,
@@ -538,7 +549,8 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 26/05/20,Thrissur,native,1,negative,to_be_discharged,01/06/20
 26/05/20,Alappuzha ,native,3,positive,under_treatment,
 26/05/20,Kasargod,native,3,positive,under_treatment,
-27/05/20,Kasargod,native,10,positive,under_treatment,
+27/05/20,Kasargod,native,6,positive,under_treatment,
+27/05/20,Kasargod,native,4,negative,to_be_discharged,03/06/20
 27/05/20,Palakkad,native,8,positive,under_treatment,
 27/05/20,Alappuzha ,native,7,positive,under_treatment,
 27/05/20,Kollam,native,4,positive,under_treatment,
@@ -553,11 +565,13 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 28/05/20,Palakkad,native,16,positive,under_treatment,
 28/05/20,Kannur,native,10,positive,under_treatment,
 28/05/20,Malappuram,native,8,positive,under_treatment,
-28/05/20,Thiruvananthapuram,native,7,positive,under_treatment,
+28/05/20,Thiruvananthapuram,native,6,positive,under_treatment,
+28/05/20,Thiruvananthapuram,native,1,negative,to_be_discharged,03/06/20
 28/05/20,Thrissur,native,7,positive,under_treatment,
 28/05/20,Kozhikode,native,6,positive,under_treatment,
 28/05/20,Pathanamthitta,native,6,positive,under_treatment,
-28/05/20,Kottayam,native,3,positive,under_treatment,
+28/05/20,Kottayam,native,1,positive,under_treatment,
+28/05/20,Kottayam,native,2,negative,to_be_discharged,03/06/20
 28/05/20,Kollam,native,1,positive,under_treatment,
 28/05/20,Alappuzha ,native,1,positive,under_treatment,
 28/05/20,Idukki ,native,1,positive,under_treatment,
@@ -565,7 +579,8 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 29/05/20,Palakkad,native,14,positive,under_treatment,
 29/05/20,Kannur,native,7,positive,under_treatment,
 29/05/20,Thrissur,native,6,positive,under_treatment,
-29/05/20,Thiruvananthapuram,native,5,positive,under_treatment,
+29/05/20,Thiruvananthapuram,native,4,positive,under_treatment,
+29/05/20,Thiruvananthapuram,native,1,negative,to_be_discharged,03/06/20
 29/05/20,Pathanamthitta,native,5,positive,under_treatment,
 29/05/20,Malappuram,native,5,positive,under_treatment,
 29/05/20,Ernakulam,native,4,positive,under_treatment,
@@ -585,7 +600,8 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 30/05/20,Ernakulam,native,4,positive,under_treatment,
 30/05/20,Kozhikode,native,4,positive,under_treatment,
 30/05/20,Kasargod,native,3,positive,under_treatment,
-30/05/20,Thiruvananthapuram,native,2,positive,under_treatment,
+30/05/20,Thiruvananthapuram,native,1,positive,under_treatment,
+30/05/20,Thiruvananthapuram,native,1,negative,to_be_discharged,03/06/20
 30/05/20,Alappuzha ,native,1,positive,under_treatment,
 30/05/20,Kottayam,native,1,positive,under_treatment,
 30/05/20,Others,native,7,positive,under_treatment,
@@ -625,4 +641,17 @@ Date,District,PersonType,NumberOfPatients,PresentStatus,Remarks,DischargedDate
 02/06/20,Kannur,native,5,positive,under_treatment,
 02/06/20,Ernakulam,native,3,positive,under_treatment,
 02/06/20,Pathanamthitta,native,1,positive,under_treatment,
-02/06/20,Thiruvananthapuram,native,1,positive,expired,
+02/06/20,Thiruvananthapuram,native,1,positive,expired,02/06/20
+03/06/20,Thiruvananthapuram,native,14,positive,under_treatment,
+03/06/20,Malappuram,native,11,positive,under_treatment,
+03/06/20,Idukki ,native,9,positive,under_treatment,
+03/06/20,Kottayam,native,8,positive,under_treatment,
+03/06/20,Alappuzha ,native,7,positive,under_treatment,
+03/06/20,Kozhikode,native,7,positive,under_treatment,
+03/06/20,Kollam,native,5,positive,under_treatment,
+03/06/20,Ernakulam,native,5,positive,under_treatment,
+03/06/20,Palakkad,native,5,positive,under_treatment,
+03/06/20,Thrissur,native,4,positive,under_treatment,
+03/06/20,Kasargod,native,3,positive,under_treatment,
+03/06/20,Pathanamthitta,native,2,positive,under_treatment,
+03/06/20,Kannur,native,2,positive,under_treatment,
